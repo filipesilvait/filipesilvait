@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Meu nome é Filipe e sou Desenvolvedor Front-End. Sou apaixonado por tecnologia, desenvolvimento web e design!</h4>
+<h4 align="center">Sou apaixonado por tecnologia, desenvolvimento web e design!</h4>
 
 ###
 
