@@ -1,14 +1,12 @@
-<br clear="both">
-
 <h2 align="center">Oi! 👋 Tudo bem? Meu nome é Filipe e eu sou um Desenvolvedor Front-End!</h2>
 
-<h2 align="center">Sou apaixonado por tecnologia, desenvolvimento web e design!</h2>
+<h3 align="center">Sou apaixonado por tecnologia, desenvolvimento web e design!</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipesilvait&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipesilvait&locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=nord&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=filipesilvait&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipesilvait&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
