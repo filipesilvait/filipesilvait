@@ -1,6 +1,8 @@
-<h2 align="center">Oi! 👋 Tudo bem? Meu nome é Filipe e eu sou um Desenvolvedor Front-End!</h2>
+<h3 align="center">Olá, bem vindo ao meu GitHub!</h3>
 
-<h3 align="center">Sou apaixonado por tecnologia, desenvolvimento web e design!</h3>
+###
+
+<h4 align="center">Meu nome é Filipe e sou Desenvolvedor Front-End. Sou apaixonado por tecnologia, desenvolvimento web e design!</h4>
 
 ###
 
@@ -11,7 +13,7 @@
 
 ###
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+<h4 align="center">Linguagens e Ferramentas:</h4>
 
 ###
 
@@ -24,6 +26,7 @@
 
 ###
 
+<p align="center">Visitors Count</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/filipesilvait/count.svg?"  />
 </div>
