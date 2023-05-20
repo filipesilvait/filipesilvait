@@ -25,10 +25,3 @@
 </div>
 
 ###
-
-<p align="center">Visitors Count</p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/filipesilvait/count.svg?"  />
-</div>
-
-###
