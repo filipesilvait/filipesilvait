@@ -3,6 +3,7 @@
 ###
 
 <h4 align="center">Meu nome é Filipe e sou Desenvolvedor Front-End. Sou apaixonado por tecnologia, desenvolvimento web e design!</h4>
+<p align="center">Também sou moderador da comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os públicos.</p>
 
 ###
 
@@ -31,10 +32,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   </a>
 </div>
-
-###
-
-<p align="center">Moderador da comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os públicos.</p>
 
 ###
 
