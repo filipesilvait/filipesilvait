@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="center">Linguagens e Ferramentas:</h4>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 
 ###
 
