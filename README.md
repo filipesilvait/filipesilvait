@@ -3,7 +3,8 @@
 ###
 
 <h4 align="center">Meu nome é Filipe e sou Desenvolvedor Front-End. Sou apaixonado por tecnologia, desenvolvimento web e design!</h4>
-<p align="center">Também sou moderador da comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os públicos.</p>
+<h4 align="center">Atualmente trabalhando no projeto open source do site da Vacuum, utilizando ReactJS/NextJS e Tailwind no front-end.</h4>
+<p align="center">Também sou moderador da comunidade Vacuum no discord, que é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os públicos.</p>
 
 ###
 
